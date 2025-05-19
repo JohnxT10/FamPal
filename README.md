@@ -3,7 +3,7 @@
 FamPal   is AI-Powered  Tech Support App  designed to help family members  especially elders, kids, or less tech-savvy individuals It navigate and solve everyday technology issues. It works like a mini "IT support" system for your home.It is easy to learn and use.
 The live link can be found here: [Live Site -  FamPal) (https://fampal-d6a25660fc9b.herokuapp.com/)
 
-![Mock Up](doc/readme-images/sitemockup.png)
+![Mock Up](doc/readme-images/home-page.jpg)
 
 ## Table of Contents
 - [FamPal](#FamPal)
@@ -280,11 +280,7 @@ The main color schemes for the website is soft blue
 
 ## Testing
 
-![Light House Test ](docs/testing/)
-
-![CSS ](docs/testing/)
-
-![Wave ](docs/testing/)
+[See full testing documentation](TESTING.md)
 
 
 ## Deployment
