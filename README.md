@@ -1,7 +1,7 @@
 # FamPal
 
 FamPal   is AI-Powered  Tech Support App  designed to help family members  especially elders, kids, or less tech-savvy individuals It navigate and solve everyday technology issues. It works like a mini "IT support" system for your home.It is easy to learn and use.
-The live link can be found here: [Live Site -  DamPal) (https://fampal-d6a25660fc9b.herokuapp.com/)
+The live link can be found here: [Live Site -  FamPal) (https://fampal-d6a25660fc9b.herokuapp.com/)
 
 ![Mock Up](doc/readme-images/sitemockup.png)
 
@@ -47,7 +47,7 @@ The aim of a FamPal is to make technology easier, safer, and more accessible for
 
 ### Agile Planning
 
-This project was developed using agile methodologies by delivering small features in incremental sprints. There were 3 sprints in total, spaced out evenly over four weeks.
+This project was developed using agile methodologies by delivering small features in incremental sprints. There were 3 sprints in total, spaced out evenly over 5 days.
 
 All projects were  prioritized under the labels, Must have, should have, could have.  "Must have" stories were completed first, "should haves" and then finally "could haves". It was done this way to ensure that all core requirements were completed first to give the project a complete feel, with the nice to have features being added should there be capacity.
 
@@ -88,16 +88,16 @@ This part is for all document-related stories and tasks that are needed to docum
 #### User Stories
 
 The following are the project  plan
-**Part1  - Base Setup**
+**Part 1  - Base Setup**
 
-As a developer, I need to create the base.html page and structureso that other pages can reuse the layout
+As a developer, I need to create the base.html page and structure so that other pages can reuse the layout
 
 
 As a developer, I need to create the footer with social media links and contact information
 
 As a developer, I need to create the navbar so that users can navigate the website from any device
 
-**EPIC 2 - Stand alone Pages**
+**Part 2 - Stand alone Pages**
 
 As a developer, I need to implement a 404 error page to alert users when they have accessed a page that doesn't exist
 
@@ -131,7 +131,7 @@ Tasks:
 
 * Responsive Design - Site should be fully functional on all devices from 320px up
 * Hamburger menu for mobile devices
-* Ability to log on and out the User
+* Ability to log in and out the User
 * Ability For AI to resove the tech issues
 
 ## The-Structure-Plane
